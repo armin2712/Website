@@ -233,7 +233,9 @@ ul.tags li {
   margin-bottom: 30px;
   text-transform: lowercase;
 }
-
+#section-hello {
+  margin-top: 2em;
+}
 #section-hello #description {
   font-family: Lato, Arial, Helvetica, sans-serif;
   word-spacing: 9px;
@@ -256,7 +258,7 @@ ul.tags li {
 }
 
 #section-hello {
-  margin-top: 1em;
+  margin-top: 2em;
 }
 
 /* Skills 
